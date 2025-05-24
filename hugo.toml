@@ -1,7 +1,7 @@
-baseURL = 'https://arquitetomovel.dev/'
-defaultContentLanguage = 'pt-br'
-title = 'Arquiteto Movel (Alexandre Danelon)'
-theme = 'PaperMod'
+baseURL = "https://arquitetomovel.dev/"
+defaultContentLanguage = "pt-br"
+title = "Arquiteto Movel (Alexandre Danelon)"
+theme = "PaperMod"
 
 [languages]
   [languages.pt-br]
@@ -79,7 +79,7 @@ tocopen = false
 enabled = true
 title = "Arquiteto Movel"
 subtitle = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
-imageUrl = "/images/profile.jpg"
+imageUrl = "/images/ale64684296.jpeg"
 imageWidth = 120
 imageHeight = 120
 imageTitle = "Alexandre Danelon"

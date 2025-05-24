@@ -1,0 +1,162 @@
+baseURL = 'https://arquitetomovel.dev/'
+defaultContentLanguage = 'pt-br'
+title = 'Arquiteto Movel (Alexandre Danelon)'
+theme = 'PaperMod'
+
+[languages]
+  [languages.pt-br]
+    languageName = "Português"
+    weight = 1
+    title = "Arquiteto Movel (Alexandre Danelon)"
+    description = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
+    [languages.pt-br.params]
+      subtitle = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
+      keywords = ["Arquitetura de Software", "Desenvolvimento", "Programação", "Tecnologia"]
+      author = "Alexandre Danelon"
+      DateFormat = "2 January 2006"
+      defaultTheme = "auto"
+    [languages.pt-br.profileMode]
+      enabled = true
+      title = "Arquiteto Movel"
+      subtitle = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
+      imageUrl = "/images/ale64684296.jpeg"
+      imageTitle = "Alexandre Danelon"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Mobile Architect (Alexandre Danelon)"
+    description = "Reflections on technology, programming and personal development"
+    [languages.en.params]
+      subtitle = "Reflections on technology, programming and personal development"
+      keywords = ["Software Architecture", "Development", "Programming", "Technology"]
+      author = "Alexandre Danelon"
+      DateFormat = "January 2, 2006"
+      defaultTheme = "auto"
+    [languages.en.profileMode]
+      enabled = true
+      title = "Mobile Architect"
+      subtitle = "Reflections on technology, programming and personal development"
+      imageUrl = "/images/ale64684296.jpeg"
+      imageTitle = "Alexandre Danelon"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = ""
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Arquiteto Movel"
+description = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
+keywords = ["Blog", "Portfolio", "Arquitetura", "Software", "Desenvolvimento"]
+author = "Alexandre Danelon"
+DateFormat = "2 January 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = true
+hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = false
+
+[params.profileMode]
+enabled = true
+title = "Arquiteto Movel"
+subtitle = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
+imageUrl = "/images/profile.jpg"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Alexandre Danelon"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "Sobre"
+url = "about"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ArquitetoMovel"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/alexandre-alves-de-l-danelon-5b734221/"
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
+
+[languages.pt-br.menu]
+  [[languages.pt-br.menu.main]]
+    identifier = "home"
+    name = "Início"
+    url = "/"
+    weight = 10
+  [[languages.pt-br.menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[languages.pt-br.menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    url = "/about/"
+    weight = 30
+  [[languages.pt-br.menu.main]]
+    identifier = "search"
+    name = "Buscar"
+    url = "/search/"
+    weight = 40
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[languages.en.menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+  [[languages.en.menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 40
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.highlight]
+noClasses = false
+anchorLineNos = false
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "monokai"

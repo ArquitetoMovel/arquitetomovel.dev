@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Primeiro-Post on Arquiteto Movel (Alexandre Danelon)</title>
-    <link>http://localhost:1313/tags/primeiro-post/</link>
+    <link>http://localhost:1314/tags/primeiro-post/</link>
     <description>Recent content in Primeiro-Post on Arquiteto Movel (Alexandre Danelon)</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/primeiro-post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/primeiro-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bem-vindo ao Arquiteto Móvel</title>
-      <link>http://localhost:1313/posts/bem-vindo/</link>
+      <link>http://localhost:1314/posts/bem-vindo/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bem-vindo/</guid>
+      <guid>http://localhost:1314/posts/bem-vindo/</guid>
       <description>Post inaugural do blog Arquiteto Móvel</description>
     </item>
   </channel>

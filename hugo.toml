@@ -15,12 +15,6 @@ theme = "PaperMod"
       author = "Alexandre Danelon"
       DateFormat = "2 January 2006"
       defaultTheme = "auto"
-    [languages.pt-br.profileMode]
-      enabled = true
-      title = "Arquiteto Movel"
-      subtitle = "Reflexões sobre tecnologia, programação e desenvolvimento pessoal"
-      imageUrl = "/images/ale64684296.jpeg"
-      imageTitle = "Alexandre Danelon"
 
   [languages.en]
     languageName = "English"
@@ -33,12 +27,6 @@ theme = "PaperMod"
       author = "Alexandre Danelon"
       DateFormat = "January 2, 2006"
       defaultTheme = "auto"
-    [languages.en.profileMode]
-      enabled = true
-      title = "Mobile Architect"
-      subtitle = "Reflections on technology, programming and personal development"
-      imageUrl = "/images/ale64684296.jpeg"
-      imageTitle = "Alexandre Danelon"
 
 enableRobotsTXT = true
 buildDrafts = false

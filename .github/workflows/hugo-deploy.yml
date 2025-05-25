@@ -38,7 +38,7 @@ jobs:
 
       - name: Build with Hugo
         run: |
-          hugo --minify --baseURL "https://arquitetomovel.github.io/"
+          hugo --minify --baseURL "https://arquitetomovel.github.io/arquitetomovel.dev/"
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

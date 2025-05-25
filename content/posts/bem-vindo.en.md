@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Mobile Architect"
-date: "2025-05-24"
+date: 2025-05-24
 draft: false
 tags: ["welcome", "first-post"]
 categories: ["general"]

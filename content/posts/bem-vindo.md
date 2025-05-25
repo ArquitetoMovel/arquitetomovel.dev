@@ -1,6 +1,6 @@
 ---
 title: "Bem-vindo ao Arquiteto Móvel"
-date: 2025-05-24
+date: 2025-05-25
 draft: false
 tags: ["boas-vindas", "primeiro-post"]
 categories: ["geral"]

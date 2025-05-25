@@ -22,11 +22,13 @@ My experience covers various aspects of software development:
 - Domain-Driven Design (DDD)
 
 ### Development
-- **.NET**: C#, ASP.NET Core, Entity Framework
-- **Golang**: APIs, Microservices, Performance
+- **.NET**: C#, ASP.NET Core, Entity Framework, OpenTelemetry
+- **Golang**: APIs, Microservices, Observability with OpenTelemetry
 - **Swift**: iOS Development, SwiftUI
-- **Cloud**: AWS, Azure, Kubernetes
+- **Cloud**: OCI, Azure, Kubernetes
 - **DevOps**: CI/CD, Docker, Terraform
+- **Observability**: OpenTelemetry, Jaeger, Prometheus
+- **AI**: Integrating AI into applications, including LLMs and generative AI tools, how to be more productive with AI
 
 ## Blog's Purpose
 
@@ -44,6 +46,9 @@ I'm always open for networking and technical discussions. You can find me at:
 
 - [GitHub](https://github.com/ArquitetoMovel) - Check out my projects and contributions
 - [LinkedIn](https://www.linkedin.com/in/alexandre-alves-de-l-danelon-5b734221/) - Connect professionally
+- [Twitter](https://twitter.com/arquitetomovel) - Follow for updates and discussions
+- [Mastodon](https://bolha.us/@arquitetomovel) - Follow for news and interaction on the decentralized network
+- [Threads](https://www.threads.net/@arquitetomovel) - Follow for insights and updates on Threads
 
 ## Newsletter
 
